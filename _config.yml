@@ -9,12 +9,13 @@ username: Mario Turco
 user_description: Prova Prova Test Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
 user_title: Computer Scientist
 email: turcomario.na@gmail.com
-#twitter_username: lorem_ipsum
+linkedin_username: turcomario
 github_username:  MarioTurco
+#twitter_username: lorem_ipsum
 #gplus_username:  lorem_ipsum
-
+#show_projects: yes #comment this line to hide projects
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-167451604-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
