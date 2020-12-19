@@ -1,8 +1,6 @@
 # Site settings
 title: Mario Turco
-description: Born in Torre del Greco(Naples) in 1998, I have been passionate about technology since I was a kid. 
-I do have a Bachelor's Degree in Computer Science and I'm currently attending a Master's Degree in Computer Science at the University of Naples Federico II. 
-Looking forward to further explore Artificial Intelligence, Data Science and Computer Vision.
+description: Born in Torre del Greco(Naples) in 1998, I have been passionate about technology since I was a kid. I do have a Bachelor's Degree in Computer Science and I'm currently attending a Master's Degree in Computer Science at the University of Naples Federico II. Looking forward to further explore Artificial Intelligence, Data Science and Computer Vision.
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://marioturco.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
